@@ -1,4 +1,4 @@
-# ecgdl
+# ECG Deep learning models
 Test some dl models on ECG data classification
 
 Currently models come from 
