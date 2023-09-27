@@ -5,6 +5,5 @@ Currently models come from
 
 https://github.com/hsd1503/DL-ECG-Review
 
-```HTML
-<video src="/docs/website.mp4" controls="controls" width="500" height="300"></video>
-```
+
+https://github.com/ericcheny/ecgdl/assets/50312686/df0acfa4-e73a-47f5-ad50-9e1c49c088e2
