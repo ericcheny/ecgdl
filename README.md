@@ -6,7 +6,5 @@ Currently models come from
 https://github.com/hsd1503/DL-ECG-Review
 
 ```HTML
-<video width="720" height="303" controls> 
-	<source src="/docs/website.mp4" type="video/mp4">
-</video>
+<video src="/docs/website.mp4" controls="controls" width="500" height="300"></video>
 ```
